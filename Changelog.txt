@@ -1,0 +1,18 @@
+Storm-Raid-Server-Changelog
+===========================
+
+The change log for the Minecraft server Storm Raid.
+
+Alpha 0.2
+- Added 19 new plugins Broadcaster, WorldEdit, TreeFeller, Buycraft,
+Vault, ClearLag, PermissionsEx, Modifyworld, Votifier, EchoPet,
+VipSlot, Essentials, EssentialsProtect, EssentialsSpawn, CraftBook,
+Enjin Minecraft Plugin, EssentialsChat, EssentialsAntiBuild, AntiCheat.
+- Built spawn and set spawn point
+- Added 4 new admins TheEnderCube,Ultergold,Hi10987,and DrFalcon
+
+First release Alpha 0.1.
+- Started server Bukkit
+- Gave it a name Storm Raid
+- Got enjin website stormraid.enjin.com
+- Got a staff
