@@ -4,8 +4,8 @@ Storm-Raid-Server-Changelog
 The change log for the Minecraft server Storm Raid.
 
 Alpha 0.2
-- Added 19 new plugins Broadcaster, WorldEdit, TreeFeller, Buycraft,
-Vault, ClearLag, PermissionsEx, Modifyworld, Votifier, EchoPet,
+- Added 19 new plugins Broadcaster, WorldEdit, TreeFeller, EchoPet,
+ AntiCheat, Vault, ClearLag, PermissionsEx, Modifyworld, Votifier,
 VipSlot, Essentials, EssentialsProtect, EssentialsSpawn, CraftBook,
 Enjin Minecraft Plugin, EssentialsChat, EssentialsAntiBuild, AntiCheat.
 - Built spawn and set spawn point
